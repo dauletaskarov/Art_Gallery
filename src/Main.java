@@ -5,7 +5,7 @@ public class Main {
         ArtGallery gallery = new ArtGallery("Modern Art Gallery", "Paris");
 
  
-        Artist artist1 = new Artist("Vincent van Gogh", "Netherlands");
+        Artist artist1 = new Artist("Abylkhan Kasteyev", "Kazakhstan");
         Artist artist2 = new Artist("Vincent van Gogh", "Netherlands");
 
 
