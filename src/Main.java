@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+        
         ArtGallery gallery = new ArtGallery("Modern Art Gallery", "Paris");
 
  
